@@ -1,0 +1,25 @@
+.user-info__edit-button {
+    margin-top: 24px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    width: 36px;
+    height: 18px;
+    font-size: 12px;
+    line-height: 10px;
+    display: flex;
+    cursor: pointer;
+    text-align: center;
+}
+
+  
+.user-info__edit-button:focus {
+    outline-color: greenyellow;
+}
+
+.user-info__edit-button:hover {
+  background-color: white;
+  color: #000;
+}
+
+  

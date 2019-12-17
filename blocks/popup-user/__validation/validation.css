@@ -1,0 +1,10 @@
+.popup-user__validation {
+    display: block;
+    height: 11px;
+    font-size: 12px;
+    line-height: 15px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    color: #ff0000;
+    margin-bottom: 4px;
+}
