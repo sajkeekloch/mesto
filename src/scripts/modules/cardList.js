@@ -1,6 +1,4 @@
-
-import {placesList} from './card';
-import {Card} from './card';
+import {placesList, Card} from './card';
 
 
 export class CardList {

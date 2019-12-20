@@ -1,10 +1,5 @@
 import {api} from './../index';
-import {name} from './popup';
-import {job} from './popup';
-import {avatar} from './popup';
-
-
-
+import {name, job, avatar} from './popup';
 
 export function renderUserInfo(res) {
         name.textContent = res.name;
