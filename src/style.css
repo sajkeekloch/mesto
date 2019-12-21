@@ -1,0 +1,17 @@
+@import url(./styles/vendor/normalize.css);
+@import url(./styles/vendor/fonts.css);
+@import url(./styles/blocks/root/root.css);
+@import url(./styles/blocks/header/header.css);
+@import url(./styles/blocks/logo/logo.css);
+@import url(./styles/blocks/profile/profile.css);
+@import url(./styles/blocks/user-info/user-info.css);
+@import url(./styles/blocks/button/button.css);
+@import url(./styles/blocks/places-list/places-list.css);
+@import url(./styles/blocks/place-card/place-card.css);
+@import url(./styles/blocks/popup/popup.css);
+@import url(./styles/blocks/popup-user/popup-user.css);
+@import url(./styles/blocks/popup-image/popup-image.css);
+
+body {
+  background-color: #000;
+}

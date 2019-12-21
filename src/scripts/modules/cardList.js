@@ -1,4 +1,7 @@
-class CardList {
+import {placesList, Card} from './card';
+
+
+export class CardList {
     constructor (container) {
       this.container = container;
     }
@@ -16,6 +19,6 @@ class CardList {
 }
 
 
-const list = new CardList(placesList);
-api.createList();
+export const list = new CardList(placesList);
+
   
