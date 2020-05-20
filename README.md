@@ -1,8 +1,9 @@
 # [mesto](https://sajkeekloch.github.io/mesto/)
 
-## homework project 11
+## проект-домашнее задание из курса от ЯндексПрактикум
 
 Используемые технологии: JS, CSS, HTML, WebPack, GIT, Babel.
+Верстка под разные разрешения экрана, GET/POST/PATCH запросы.
 
 ### Локальный запуск
 
