@@ -1,5 +1,7 @@
 # [mesto](https://sajkeekloch.github.io/mesto/)
 
+# api проекта не работает
+
 ## проект-домашнее задание из курса от ЯндексПрактикум
 
 Используемые технологии: JS, CSS, HTML, WebPack, GIT, Babel.
