@@ -1,4 +1,3 @@
-# api проекта не работает
 
 # [mesto](https://sajkeekloch.github.io/mesto/)
 
